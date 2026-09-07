@@ -5,19 +5,19 @@ about:
   head: b6e8bbd
   archived: false
   latestVersion: "v0.1.8b1"
-  collectedAt: 2026-09-07T05:52:41Z
+  collectedAt: 2026-09-07T18:40:39Z
 timeline:
   created: 2024-11-13
   lastCommit: 2026-09-07
   lastRelease: 2026-09-04
 popularity:
-  star: 178988
-  watcher: 575
-  fork: 13194
+  star: 179873
+  watcher: 574
+  fork: 13244
   release: 21
-  contributor: 4389
-  pullRequest: 940
-  issue: 599
+  contributor: 4390
+  pullRequest: 945
+  issue: 604
 language:
   Python: 560308
   Dockerfile: 1254
@@ -27,60 +27,60 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 24
-    openPR: 28
+    openPR: 33
     closedIssue: 25
-    openIssue: 16
+    openIssue: 21
     commit: 54
   last60d:
     since: 2026-07-09
     release: 2
     mergedPR: 37
-    openPR: 58
+    openPR: 63
     closedIssue: 40
-    openIssue: 21
+    openIssue: 26
     commit: 60
   last90d:
     since: 2026-06-09
     release: 2
     mergedPR: 46
-    openPR: 86
+    openPR: 91
     closedIssue: 64
-    openIssue: 32
+    openIssue: 37
     commit: 60
   last180d:
     since: 2026-03-11
     release: 3
     mergedPR: 67
-    openPR: 211
+    openPR: 216
     closedIssue: 139
-    openIssue: 73
+    openIssue: 78
     commit: 65
   last360d:
     since: 2025-09-12
     release: 6
     mergedPR: 77
-    openPR: 255
+    openPR: 260
     closedIssue: 160
-    openIssue: 112
+    openIssue: 117
     commit: 76
   last720d:
     since: 2024-09-17
     release: 21
     mergedPR: 238
-    openPR: 298
+    openPR: 303
     closedIssue: 288
-    openIssue: 311
+    openIssue: 316
     commit: 370
 total:
   release: 21
   mergedPR: 238
-  openPR: 298
+  openPR: 303
   closedIssue: 288
-  openIssue: 311
+  openIssue: 316
   commit: 370
 ---
 path: /home/runner/.x-repo/github.com/microsoft/markitdown
-collectedAt: 2026-09-07T05:52:42Z
+collectedAt: 2026-09-07T18:40:40Z
 loc:
   Python:
     code: 12219
@@ -131,7 +131,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:52:44+00:00
+  collectedAt: 2026-09-07T18:40:41+00:00
   platform:
     darwin/arm64:
       name:  null
