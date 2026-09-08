@@ -5,17 +5,17 @@ about:
   head: b6e8bbd
   archived: false
   latestVersion: "v0.1.8b1"
-  collectedAt: 2026-09-08T03:13:18Z
+  collectedAt: 2026-09-08T05:50:02Z
 timeline:
   created: 2024-11-13
   lastCommit: 2026-09-07
   lastRelease: 2026-09-04
 popularity:
-  star: 180482
-  watcher: 574
-  fork: 13271
+  star: 180740
+  watcher: 573
+  fork: 13280
   release: 21
-  contributor: 4388
+  contributor: 4387
   pullRequest: 951
   issue: 604
 language:
@@ -80,7 +80,7 @@ total:
   commit: 370
 ---
 path: /home/runner/.x-repo/github.com/microsoft/markitdown
-collectedAt: 2026-09-08T03:13:18Z
+collectedAt: 2026-09-08T05:50:03Z
 loc:
   Python:
     code: 12219
