@@ -2,12 +2,12 @@ about:
   description: "Python tool for converting files and office documents to Markdown."
   license: MIT
   homepage: 
-  head: 57a481e
+  head: 73a26da
   archived: false
   latestVersion: "v0.1.8b1"
   latestRelease: "v0.1.7"
   latestPrerelease: "v0.1.8b1"
-  collectedAt: 2026-09-10T21:22:17Z
+  collectedAt: 2026-09-10T22:42:21Z
 timeline:
   created: 2024-11-13
   lastCommit: 2026-09-10
@@ -15,81 +15,81 @@ timeline:
   lastRelease: 2026-07-29
   lastPrerelease: 2026-09-04
 popularity:
-  star: 182413
+  star: 182418
   watcher: 576
   fork: 13410
   release: 21
   contributor: 4389
-  pullRequest: 984
+  pullRequest: 986
   issue: 612
 language:
-  Python: 644261
+  Python: 645173
   Dockerfile: 1267
-totalBytes: 645528
+totalBytes: 646440
 recent:
   last30d:
     since: 2026-08-11
     release: 1
-    mergedPR: 43
+    mergedPR: 45
     openPR: 43
     closedIssue: 32
     openIssue: 19
-    commit: 73
+    commit: 75
   last60d:
     since: 2026-07-12
     release: 2
-    mergedPR: 56
+    mergedPR: 58
     openPR: 72
     closedIssue: 45
     openIssue: 27
-    commit: 79
+    commit: 81
   last90d:
     since: 2026-06-12
     release: 2
-    mergedPR: 65
+    mergedPR: 67
     openPR: 95
     closedIssue: 68
     openIssue: 35
-    commit: 79
+    commit: 81
   last180d:
     since: 2026-03-14
     release: 3
-    mergedPR: 85
+    mergedPR: 87
     openPR: 225
     closedIssue: 145
     openIssue: 79
-    commit: 84
+    commit: 86
   last360d:
     since: 2025-09-15
     release: 6
-    mergedPR: 96
+    mergedPR: 98
     openPR: 271
     closedIssue: 167
     openIssue: 117
-    commit: 95
+    commit: 97
   last720d:
     since: 2024-09-20
     release: 21
-    mergedPR: 257
+    mergedPR: 259
     openPR: 314
     closedIssue: 295
     openIssue: 317
-    commit: 389
+    commit: 391
 total:
   release: 21
-  mergedPR: 257
+  mergedPR: 259
   openPR: 314
   closedIssue: 295
   openIssue: 317
-  commit: 389
+  commit: 391
 ---
 path: /home/runner/.x-repo/github.com/microsoft/markitdown
-collectedAt: 2026-09-10T21:22:19Z
+collectedAt: 2026-09-10T22:42:27Z
 loc:
   Python:
-    code: 14124
+    code: 14146
     comments: 1140
-    blanks: 3005
+    blanks: 3010
     files: 90
   Html:
     code: 2166
@@ -127,9 +127,9 @@ loc:
     blanks: 346
     files: 15
 total:
-  code: 16939
+  code: 16961
   comments: 2165
-  blanks: 3604
+  blanks: 3609
   files: 117
 ---
 
