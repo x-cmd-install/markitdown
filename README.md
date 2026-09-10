@@ -14,11 +14,11 @@ x install markitdown
 
 ## Code insight
 
-Total: **16,613** lines of code across **100** files in the top 5 languages.
+Total: **16,635** lines of code across **100** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 14,124 | 1,140 | 3,005 | 90 |
+| Python | 14,146 | 1,140 | 3,010 | 90 |
 | Html | 2,166 | 0 | 177 | 3 |
 | Toml | 269 | 6 | 37 | 4 |
 | Dockerfile | 41 | 4 | 16 | 2 |
@@ -36,22 +36,22 @@ Total: **16,613** lines of code across **100** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 182,413 · **Forks**: 13,410 · **Open issues**: 612 · **Contributors**: 4,389
+- **Stars**: 182,418 · **Forks**: 13,410 · **Open issues**: 612 · **Contributors**: 4,389
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 257 · **Open PRs**: 314 · **Closed issues**: 295 · **Open issues**: 317 · **Commits**: 389
+- **Releases**: 21 · **Merged PRs**: 259 · **Open PRs**: 314 · **Closed issues**: 295 · **Open issues**: 317 · **Commits**: 391
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 43 | 43 | 32 | 19 | 73 |
-| last60d | 2026-07-12 | 2 | 56 | 72 | 45 | 27 | 79 |
-| 90d | 2026-06-12 | 2 | 65 | 95 | 68 | 35 | 79 |
-| last180d | 2026-03-14 | 3 | 85 | 225 | 145 | 79 | 84 |
-| 360d | 2025-09-15 | 6 | 96 | 271 | 167 | 117 | 95 |
-| last720d | 2024-09-20 | 21 | 257 | 314 | 295 | 317 | 389 |
+| 30d | 2026-08-11 | 1 | 45 | 43 | 32 | 19 | 75 |
+| last60d | 2026-07-12 | 2 | 58 | 72 | 45 | 27 | 81 |
+| 90d | 2026-06-12 | 2 | 67 | 95 | 68 | 35 | 81 |
+| last180d | 2026-03-14 | 3 | 87 | 225 | 145 | 79 | 86 |
+| 360d | 2025-09-15 | 6 | 98 | 271 | 167 | 117 | 97 |
+| last720d | 2024-09-20 | 21 | 259 | 314 | 295 | 317 | 391 |
 
 ## Distribution status
 
@@ -70,4 +70,4 @@ Install metadata for markitdown lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:22:26Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:42:47Z._
