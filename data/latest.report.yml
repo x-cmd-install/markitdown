@@ -2,95 +2,95 @@ about:
   description: "Python tool for converting files and office documents to Markdown."
   license: MIT
   homepage: 
-  head: 9480644
+  head: f0c5d01
   archived: false
   latestVersion: "v0.1.8b1"
   latestRelease: "v0.1.7"
   latestPrerelease: "v0.1.8b1"
-  collectedAt: 2026-09-11T06:02:23Z
+  collectedAt: 2026-09-11T18:50:13Z
 timeline:
   created: 2024-11-13
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-04
   lastRelease: 2026-07-29
   lastPrerelease: 2026-09-04
 popularity:
-  star: 182488
-  watcher: 577
-  fork: 13415
+  star: 182646
+  watcher: 578
+  fork: 13429
   release: 21
-  contributor: 4387
-  pullRequest: 988
-  issue: 612
+  contributor: 4391
+  pullRequest: 995
+  issue: 613
 language:
-  Python: 649952
+  Python: 657677
   Dockerfile: 1267
-totalBytes: 651219
+totalBytes: 658944
 recent:
   last30d:
     since: 2026-08-12
     release: 1
-    mergedPR: 43
-    openPR: 41
-    closedIssue: 29
-    openIssue: 19
-    commit: 76
+    mergedPR: 47
+    openPR: 44
+    closedIssue: 33
+    openIssue: 16
+    commit: 80
   last60d:
     since: 2026-07-13
     release: 2
-    mergedPR: 59
-    openPR: 73
-    closedIssue: 45
-    openIssue: 27
-    commit: 82
+    mergedPR: 63
+    openPR: 76
+    closedIssue: 49
+    openIssue: 24
+    commit: 86
   last90d:
     since: 2026-06-13
     release: 2
-    mergedPR: 68
-    openPR: 96
-    closedIssue: 68
-    openIssue: 35
-    commit: 82
+    mergedPR: 72
+    openPR: 98
+    closedIssue: 72
+    openIssue: 32
+    commit: 86
   last180d:
     since: 2026-03-15
     release: 3
-    mergedPR: 88
-    openPR: 226
-    closedIssue: 145
-    openIssue: 79
-    commit: 87
+    mergedPR: 92
+    openPR: 228
+    closedIssue: 149
+    openIssue: 76
+    commit: 91
   last360d:
     since: 2025-09-16
     release: 6
-    mergedPR: 99
-    openPR: 272
-    closedIssue: 167
-    openIssue: 117
-    commit: 98
+    mergedPR: 103
+    openPR: 274
+    closedIssue: 171
+    openIssue: 114
+    commit: 102
   last720d:
     since: 2024-09-21
     release: 21
-    mergedPR: 260
-    openPR: 315
-    closedIssue: 295
-    openIssue: 317
-    commit: 392
+    mergedPR: 264
+    openPR: 317
+    closedIssue: 299
+    openIssue: 314
+    commit: 396
 total:
   release: 21
-  mergedPR: 260
-  openPR: 315
-  closedIssue: 295
-  openIssue: 317
-  commit: 392
+  mergedPR: 264
+  openPR: 317
+  closedIssue: 299
+  openIssue: 314
+  commit: 396
 ---
 path: /home/runner/.x-repo/github.com/microsoft/markitdown
-collectedAt: 2026-09-11T06:02:24Z
+collectedAt: 2026-09-11T18:50:14Z
 loc:
   Python:
-    code: 14255
-    comments: 1143
-    blanks: 3036
-    files: 91
+    code: 14428
+    comments: 1145
+    blanks: 3069
+    files: 92
   Html:
     code: 2166
     comments: 0
@@ -127,10 +127,10 @@ loc:
     blanks: 346
     files: 15
 total:
-  code: 17070
-  comments: 2168
-  blanks: 3635
-  files: 118
+  code: 17243
+  comments: 2170
+  blanks: 3668
+  files: 119
 ---
 
 ---
