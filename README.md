@@ -14,11 +14,11 @@ x install markitdown
 
 ## Code insight
 
-Total: **16,744** lines of code across **101** files in the top 5 languages.
+Total: **16,917** lines of code across **102** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 14,255 | 1,143 | 3,036 | 91 |
+| Python | 14,428 | 1,145 | 3,069 | 92 |
 | Html | 2,166 | 0 | 177 | 3 |
 | Toml | 269 | 6 | 37 | 4 |
 | Dockerfile | 41 | 4 | 16 | 2 |
@@ -32,26 +32,26 @@ Total: **16,744** lines of code across **101** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.1.8b1` (2026-07-29)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 
 ## Popularity
 
-- **Stars**: 182,488 · **Forks**: 13,415 · **Open issues**: 612 · **Contributors**: 4,387
+- **Stars**: 182,646 · **Forks**: 13,429 · **Open issues**: 613 · **Contributors**: 4,391
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 260 · **Open PRs**: 315 · **Closed issues**: 295 · **Open issues**: 317 · **Commits**: 392
+- **Releases**: 21 · **Merged PRs**: 264 · **Open PRs**: 317 · **Closed issues**: 299 · **Open issues**: 314 · **Commits**: 396
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 43 | 41 | 29 | 19 | 76 |
-| last60d | 2026-07-13 | 2 | 59 | 73 | 45 | 27 | 82 |
-| 90d | 2026-06-13 | 2 | 68 | 96 | 68 | 35 | 82 |
-| last180d | 2026-03-15 | 3 | 88 | 226 | 145 | 79 | 87 |
-| 360d | 2025-09-16 | 6 | 99 | 272 | 167 | 117 | 98 |
-| last720d | 2024-09-21 | 21 | 260 | 315 | 295 | 317 | 392 |
+| 30d | 2026-08-12 | 1 | 47 | 44 | 33 | 16 | 80 |
+| last60d | 2026-07-13 | 2 | 63 | 76 | 49 | 24 | 86 |
+| 90d | 2026-06-13 | 2 | 72 | 98 | 72 | 32 | 86 |
+| last180d | 2026-03-15 | 3 | 92 | 228 | 149 | 76 | 91 |
+| 360d | 2025-09-16 | 6 | 103 | 274 | 171 | 114 | 102 |
+| last720d | 2024-09-21 | 21 | 264 | 317 | 299 | 314 | 396 |
 
 ## Distribution status
 
@@ -70,4 +70,4 @@ Install metadata for markitdown lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:02:28Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:50:18Z._
