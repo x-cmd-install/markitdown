@@ -36,30 +36,22 @@ Total: **17,580** lines of code across **106** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 183,334 · **Forks**: 13,485 · **Open issues**: 615 · **Contributors**: 4,385
+- **Stars**: 183,706 · **Forks**: 13,521 · **Open issues**: 619 · **Contributors**: 4,384
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 270 · **Open PRs**: 322 · **Closed issues**: 298 · **Open issues**: 317 · **Commits**: 402
+- **Releases**: 21 · **Merged PRs**: 270 · **Open PRs**: 328 · **Closed issues**: 298 · **Open issues**: 321 · **Commits**: 402
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 53 | 47 | 33 | 19 | 86 |
-| last60d | 2026-07-15 | 2 | 69 | 80 | 48 | 26 | 92 |
-| 90d | 2026-06-15 | 2 | 75 | 102 | 70 | 31 | 92 |
-| last180d | 2026-03-17 | 3 | 98 | 232 | 148 | 79 | 97 |
-| 360d | 2025-09-18 | 6 | 109 | 278 | 169 | 115 | 108 |
-| last720d | 2024-09-23 | 21 | 270 | 322 | 298 | 317 | 402 |
-
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/markitdown). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.1.7` | ✅ latest |
+| 30d | 2026-08-15 | 1 | 52 | 52 | 32 | 22 | 85 |
+| last60d | 2026-07-16 | 2 | 69 | 83 | 46 | 30 | 91 |
+| 90d | 2026-06-16 | 2 | 74 | 106 | 68 | 35 | 92 |
+| last180d | 2026-03-18 | 3 | 98 | 238 | 148 | 83 | 97 |
+| 360d | 2025-09-19 | 6 | 109 | 284 | 168 | 119 | 108 |
+| last720d | 2024-09-24 | 21 | 270 | 328 | 298 | 321 | 402 |
 
 ## Improve this data
 
@@ -70,4 +62,4 @@ Install metadata for markitdown lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:01:03Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:17:18Z._
