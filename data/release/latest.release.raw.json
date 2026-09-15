@@ -43,13 +43,13 @@
   "body": "## What's Changed\r\n* fix: avoid O(n^2) value lookups in PPTX chart conversion by @kz-000 in https://github.com/microsoft/markitdown/pull/2227\r\n* Fix invalid LaTeX macros for mu, nu, tau, and down-arrow in equation conversion by @ksprajapatii in https://github.com/microsoft/markitdown/pull/2228\r\n* Fix typos and formatting in comments, docstrings, and markdown by @chienyuanchang in https://github.com/microsoft/markitdown/pull/2223\r\n* fix: handle PPTX SVG images without a rasterized fallback by @guoyu-wang in https://github.com/microsoft/markitdown/pull/2233\r\n* Fix omml template bugs. by @afourney in https://github.com/microsoft/markitdown/pull/2257\r\n\r\n## New Contributors\r\n* @kz-000 made their first contribution in https://github.com/microsoft/markitdown/pull/2227\r\n* @ksprajapatii made their first contribution in https://github.com/microsoft/markitdown/pull/2228\r\n* @guoyu-wang made their first contribution in https://github.com/microsoft/markitdown/pull/2233\r\n\r\n**Full Changelog**: https://github.com/microsoft/markitdown/compare/v0.1.6...v0.1.7",
   "reactions": {
     "url": "https://api.github.com/repos/microsoft/markitdown/releases/361963836/reactions",
-    "total_count": 69,
+    "total_count": 70,
     "+1": 39,
     "-1": 0,
     "laugh": 0,
     "hooray": 3,
     "confused": 0,
-    "heart": 9,
+    "heart": 10,
     "rocket": 13,
     "eyes": 5
   },
