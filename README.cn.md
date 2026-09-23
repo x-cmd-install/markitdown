@@ -4,7 +4,7 @@
 
 Python tool for converting files and office documents to Markdown.
 
-[![x-cmd/install — markitdown Code Quality Monitoring Repo Card](https://repo.x-cmd.io/markitdown.svg?lang=zh)](https://x-cmd.com/install/markitdown)
+[![x-cmd/install — markitdown Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/markitdown.svg?lang=zh)](https://x-cmd.com/install/markitdown)
 
 ## 安装
 
@@ -36,22 +36,22 @@ x install markitdown
 
 ## 流行度
 
-- **Star**: 186,260 · **Fork**: 13,725 · **开放 issue**: 629 · **贡献者**: 4,380
+- **Star**: 186,510 · **Fork**: 13,744 · **开放 issue**: 629 · **贡献者**: 4,382
 
 ## 累计统计
 
-- **发布数**: 23 · **已合并 PR**: 274 · **开放 PR**: 366 · **已关闭 issue**: 300 · **开放 issue**: 329 · **提交数**: 406
+- **发布数**: 23 · **已合并 PR**: 274 · **开放 PR**: 367 · **已关闭 issue**: 302 · **开放 issue**: 327 · **提交数**: 406
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 50 | 88 | 26 | 28 | 89 |
-| last60d | 2026-07-24 | 4 | 69 | 118 | 45 | 36 | 92 |
-| 90d | 2026-06-24 | 4 | 78 | 143 | 64 | 40 | 96 |
-| last180d | 2026-03-26 | 5 | 102 | 269 | 146 | 91 | 100 |
-| 360d | 2025-09-27 | 8 | 113 | 322 | 168 | 126 | 112 |
-| last720d | 2024-10-02 | 23 | 274 | 366 | 300 | 329 | 406 |
+| 30d | 2026-08-24 | 3 | 50 | 88 | 26 | 25 | 89 |
+| last60d | 2026-07-25 | 4 | 68 | 117 | 47 | 34 | 92 |
+| 90d | 2026-06-25 | 4 | 77 | 142 | 66 | 38 | 96 |
+| last180d | 2026-03-27 | 5 | 102 | 269 | 147 | 88 | 100 |
+| 360d | 2025-09-28 | 8 | 113 | 323 | 170 | 124 | 112 |
+| last720d | 2024-10-03 | 23 | 274 | 367 | 302 | 327 | 406 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ markitdown 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:11:55Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:20:34Z._

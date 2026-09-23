@@ -4,7 +4,7 @@
 
 Python tool for converting files and office documents to Markdown.
 
-[![x-cmd/install — markitdown Code Quality Monitoring Repo Card](https://repo.x-cmd.io/markitdown.svg)](https://x-cmd.com/install/markitdown)
+[![x-cmd/install — markitdown Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/markitdown.svg)](https://x-cmd.com/install/markitdown)
 
 ## Install
 
@@ -36,22 +36,22 @@ Total: **19,679** lines of code across **116** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 186,260 · **Forks**: 13,725 · **Open issues**: 629 · **Contributors**: 4,380
+- **Stars**: 186,510 · **Forks**: 13,744 · **Open issues**: 629 · **Contributors**: 4,382
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 274 · **Open PRs**: 366 · **Closed issues**: 300 · **Open issues**: 329 · **Commits**: 406
+- **Releases**: 23 · **Merged PRs**: 274 · **Open PRs**: 367 · **Closed issues**: 302 · **Open issues**: 327 · **Commits**: 406
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 50 | 88 | 26 | 28 | 89 |
-| last60d | 2026-07-24 | 4 | 69 | 118 | 45 | 36 | 92 |
-| 90d | 2026-06-24 | 4 | 78 | 143 | 64 | 40 | 96 |
-| last180d | 2026-03-26 | 5 | 102 | 269 | 146 | 91 | 100 |
-| 360d | 2025-09-27 | 8 | 113 | 322 | 168 | 126 | 112 |
-| last720d | 2024-10-02 | 23 | 274 | 366 | 300 | 329 | 406 |
+| 30d | 2026-08-24 | 3 | 50 | 88 | 26 | 25 | 89 |
+| last60d | 2026-07-25 | 4 | 68 | 117 | 47 | 34 | 92 |
+| 90d | 2026-06-25 | 4 | 77 | 142 | 66 | 38 | 96 |
+| last180d | 2026-03-27 | 5 | 102 | 269 | 147 | 88 | 100 |
+| 360d | 2025-09-28 | 8 | 113 | 323 | 170 | 124 | 112 |
+| last720d | 2024-10-03 | 23 | 274 | 367 | 302 | 327 | 406 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for markitdown lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:11:54Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:20:33Z._
