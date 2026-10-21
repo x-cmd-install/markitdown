@@ -32,26 +32,26 @@ Total: **19,532** lines of code across **103** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.1.8` (2026-09-21)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-20
 
 ## Popularity
 
-- **Stars**: 191,160 · **Forks**: 14,230 · **Open issues**: 665 · **Contributors**: 4,381
+- **Stars**: 191,350 · **Forks**: 14,249 · **Open issues**: 667 · **Contributors**: 4,380
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 288 · **Open PRs**: 422 · **Closed issues**: 348 · **Open issues**: 317 · **Commits**: 420
+- **Releases**: 23 · **Merged PRs**: 289 · **Open PRs**: 424 · **Closed issues**: 357 · **Open issues**: 310 · **Commits**: 421
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 8 | 115 | 13 | 24 | 14 |
-| last60d | 2026-08-21 | 3 | 59 | 191 | 45 | 45 | 103 |
-| 90d | 2026-07-22 | 4 | 77 | 218 | 65 | 54 | 106 |
-| last180d | 2026-04-23 | 5 | 109 | 308 | 136 | 84 | 112 |
-| 360d | 2025-10-25 | 8 | 124 | 380 | 193 | 129 | 124 |
-| last720d | 2024-10-30 | 23 | 288 | 422 | 348 | 317 | 420 |
+| 30d | 2026-09-21 | 1 | 8 | 116 | 21 | 17 | 15 |
+| last60d | 2026-08-22 | 3 | 60 | 192 | 54 | 38 | 104 |
+| 90d | 2026-07-23 | 4 | 78 | 219 | 73 | 46 | 107 |
+| last180d | 2026-04-24 | 5 | 110 | 310 | 145 | 77 | 113 |
+| 360d | 2025-10-26 | 8 | 125 | 382 | 202 | 122 | 125 |
+| last720d | 2024-10-31 | 23 | 289 | 424 | 357 | 310 | 421 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for markitdown lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:50:06Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:43:49Z._
