@@ -43,14 +43,14 @@
   "body": "## What's Changed\r\n* increase chunk size from 512 bytes to 64 KB for HTTP response reading by @YasirAlibrahem in https://github.com/microsoft/markitdown/pull/1511\r\n* fix(wikipedia): accept mobile (m.wikipedia.org) URLs by @GopalGB in https://github.com/microsoft/markitdown/pull/1850\r\n* fix: handle None sys.stdout.encoding in CLI output by @octo-patch in https://github.com/microsoft/markitdown/pull/1656\r\n* Add language parameter for the audio transcription by @hchmch in https://github.com/microsoft/markitdown/pull/1295\r\n* Perf: Optimize non-seekable stream buffering using shutil.copyfileobj by @YasirAlibrahem in https://github.com/microsoft/markitdown/pull/1510\r\n* Use frozenset for OMML direct tag lookup by @Amitanand983 in https://github.com/microsoft/markitdown/pull/1919\r\n* fix(wikipedia): drop the site suffix from italicised titles by @macjayz in https://github.com/microsoft/markitdown/pull/2458\r\n* Consolidate tests by format and strengthen regression coverage by @afourney in https://github.com/microsoft/markitdown/pull/2579\r\n* Replace local parser mocks with real conversion fixtures by @afourney in https://github.com/microsoft/markitdown/pull/2586\r\n* Test real installed OCR plugin discovery by @afourney in https://github.com/microsoft/markitdown/pull/2588\r\n* Test real CLI file-type parsing and CU result formatting by @afourney in https://github.com/microsoft/markitdown/pull/2592\r\n* Test PowerPoint missing text with real fixtures and shared vectors by @afourney in https://github.com/microsoft/markitdown/pull/2594\r\n* Test MCP input errors with real conversions by @afourney in https://github.com/microsoft/markitdown/pull/2597\r\n* Restore JSON regression coverage for late non-ASCII text by @afourney in https://github.com/microsoft/markitdown/pull/2601\r\n* Bump the magika dependency by @afourney in https://github.com/microsoft/markitdown/pull/2722\r\n* Bump Mammoth dependency to >=1.12.2,<2 by @afourney in https://github.com/microsoft/markitdown/pull/2729\r\n* Require certifi>=2026.10.19 for updated CA trust by @afourney in https://github.com/microsoft/markitdown/pull/2730\r\n* Update Black, Pillow, and Windows ARM Cryptography baselines by @afourney in https://github.com/microsoft/markitdown/pull/2731\r\n\r\n## New Contributors\r\n* @YasirAlibrahem made their first contribution in https://github.com/microsoft/markitdown/pull/1511\r\n* @GopalGB made their first contribution in https://github.com/microsoft/markitdown/pull/1850\r\n* @octo-patch made their first contribution in https://github.com/microsoft/markitdown/pull/1656\r\n* @hchmch made their first contribution in https://github.com/microsoft/markitdown/pull/1295\r\n* @Amitanand983 made their first contribution in https://github.com/microsoft/markitdown/pull/1919\r\n\r\n**Full Changelog**: https://github.com/microsoft/markitdown/compare/v0.1.8...v0.1.9",
   "reactions": {
     "url": "https://api.github.com/repos/microsoft/markitdown/releases/419980664/reactions",
-    "total_count": 30,
+    "total_count": 31,
     "+1": 14,
     "-1": 0,
     "laugh": 0,
     "hooray": 5,
     "confused": 0,
     "heart": 4,
-    "rocket": 4,
+    "rocket": 5,
     "eyes": 3
   },
   "mentions_count": 7
