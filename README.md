@@ -36,22 +36,22 @@ Total: **20,251** lines of code across **104** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 192,611 · **Forks**: 14,398 · **Open issues**: 674 · **Contributors**: 4,393
+- **Stars**: 192,768 · **Forks**: 14,420 · **Open issues**: 676 · **Contributors**: 4,396
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 294 · **Open PRs**: 450 · **Closed issues**: 363 · **Open issues**: 311 · **Commits**: 426
+- **Releases**: 24 · **Merged PRs**: 294 · **Open PRs**: 453 · **Closed issues**: 363 · **Open issues**: 313 · **Commits**: 426
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 1 | 12 | 139 | 22 | 21 | 12 |
-| last60d | 2026-08-29 | 4 | 61 | 218 | 50 | 41 | 98 |
-| 90d | 2026-07-30 | 4 | 77 | 246 | 73 | 50 | 110 |
-| last180d | 2026-05-01 | 6 | 114 | 335 | 147 | 80 | 118 |
-| 360d | 2025-11-02 | 9 | 130 | 408 | 205 | 122 | 130 |
-| last720d | 2024-11-07 | 24 | 294 | 450 | 363 | 311 | 426 |
+| 30d | 2026-09-29 | 1 | 12 | 141 | 22 | 22 | 12 |
+| last60d | 2026-08-30 | 4 | 60 | 221 | 49 | 43 | 98 |
+| 90d | 2026-07-31 | 4 | 77 | 249 | 73 | 52 | 110 |
+| last180d | 2026-05-02 | 6 | 114 | 338 | 147 | 82 | 118 |
+| 360d | 2025-11-03 | 9 | 130 | 411 | 205 | 124 | 130 |
+| last720d | 2024-11-08 | 24 | 294 | 453 | 363 | 313 | 426 |
 
 ## Distribution status
 
@@ -70,4 +70,4 @@ Install metadata for markitdown lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:41:43Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:54:18Z._
