@@ -36,30 +36,22 @@ Total: **20,315** lines of code across **104** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 198,672 · **Forks**: 15,092 · **Open issues**: 708 · **Contributors**: 4,435
+- **Stars**: 198,799 · **Forks**: 15,109 · **Open issues**: 709 · **Contributors**: 4,435
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 289 · **Open PRs**: 506 · **Closed issues**: 384 · **Open issues**: 324 · **Commits**: 429
+- **Releases**: 24 · **Merged PRs**: 295 · **Open PRs**: 517 · **Closed issues**: 384 · **Open issues**: 325 · **Commits**: 429
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 3 | 79 | 26 | 13 | 3 |
-| last60d | 2026-09-28 | 1 | 15 | 205 | 50 | 34 | 23 |
-| 90d | 2026-08-29 | 4 | 58 | 276 | 78 | 54 | 106 |
-| last180d | 2026-05-31 | 5 | 95 | 354 | 149 | 84 | 113 |
-| 360d | 2025-12-02 | 8 | 124 | 463 | 222 | 129 | 126 |
-| last720d | 2024-12-07 | 24 | 285 | 506 | 384 | 324 | 409 |
-
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/markitdown). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.1.8` | ⚠️ outdated |
+| 30d | 2026-10-29 | 0 | 3 | 84 | 23 | 14 | 3 |
+| last60d | 2026-09-29 | 1 | 15 | 209 | 50 | 34 | 23 |
+| 90d | 2026-08-30 | 4 | 57 | 282 | 77 | 55 | 111 |
+| last180d | 2026-06-01 | 5 | 94 | 359 | 148 | 84 | 118 |
+| 360d | 2025-12-03 | 8 | 124 | 469 | 222 | 130 | 131 |
+| last720d | 2024-12-08 | 24 | 285 | 512 | 384 | 325 | 409 |
 
 ## Improve this data
 
@@ -70,4 +62,4 @@ Install metadata for markitdown lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:36:10Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:50:54Z._
